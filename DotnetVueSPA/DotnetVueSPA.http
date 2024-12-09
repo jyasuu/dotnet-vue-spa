@@ -1,0 +1,6 @@
+@DotnetVueSPA.Server_HostAddress = http://localhost:5283
+
+GET {{DotnetVueSPA.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
